@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         // db sng
         // dv
         // sang an cut
+        // tung dep trai
     }
 }
