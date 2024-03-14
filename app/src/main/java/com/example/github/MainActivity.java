@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // ditme sang tron
         // ditme sang tron lan 2
+        // tung dep trai
     }
 }
